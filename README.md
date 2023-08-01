@@ -1,6 +1,67 @@
 <h1 align="center">Hi 👋, I'm Shreyas Nayak</h1>
 <h3 align="center">Developer with a passion for learning about the latest technological advancements. Experienced in contact center solutions, software architecture design, and development.</h3>
 
+## Experience
+- **Programming languages / Markup language** : C , C++, Javascript, Python, QML,HTML
+- **Scripting languages**   : Shell Script
+- **Run Time**              : Node.JS
+- **Framework**             : Express JS RestAPI, Python Django RestAPI, QT C++
+- **Containerization / Packaging** : Deb packaging, pip packaging, Docker, QT installer framework, Inno setup
+- **DevOps tools** : Gitlab CLI, Git Runner 
+
+# My all C++ GUI Application
+### 1) _Chirp - Omni channel desktop application_
+[![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white)](https://www.qt.io/)  ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20ci-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+
+Developed a cross-platform desktop application using the Qt framework and PjSIP stack for Contact Center agents to handle VOIP calls, chats, and social media interactions in a single interface.
+
+- Built-in browser for CRM popups
+- Integration of *PJSIP/SIP stack*
+- Integration of Zoho CRM and Salesforce CRM, among others
+- Plugin-based architecture
+- Web socket and HTTP API to enable computer telephony integration
+- Writing DevOps pipelines to build Chirp for various operating systems
+
+### 2) _TxScreenCapture - Desktop monitoring tool_
+[![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white)](https://www.qt.io/)  ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20ci-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+
+TxScreenCapture is a desktop monitoring tool that enables integration with PBX systems such as Avaya and FreeSWITCH. The tool allows administrator to record agents desktop screens and upload the recordings to the server.
+
+# My all Node.JS Application
+### TxChat - Messaging Solutions
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white) ![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20ci-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+
+Designed and developed a single-window chat solution for handling customer queries from Facebook Messenger, WhatsApp, Telegram, and Google RCS.
+
+- Integrating with Meta for WhatsApp & Facebook Messenger using Graph API and webhook
+- Integrating with Telegram using RestAPI and webhook
+- Designed and developed an AI-based chatbot engine
+- Integrating with Google Dialogflow CX for AI capability
+
+### TxNotification
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20ci-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+
+A Node.js project that listens for events and triggers custom actions defined in XML, including email, webhook, and SMS notifications
+
+### Rasa - Bot Engine
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+
+Experienced Python Developer skilled in building AI-driven applications, proficiently utilized RASA AI framework to create a versatile bot engine. Successfully integrated the engine with the company's products for chat bot and conversational voice bot capabilities, providing seamless and intelligent interactions with users.
+
+### Google Dialogflow CX - Bot Engine
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+
+Experienced Python Developer skilled in building AI-powered applications, developed a bot engine using Google Dialogflow CX. Integrated it with company products for advanced chat bot and voice bot capabilities.
+
+# DevOps 
+![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20ci-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
+Worked as a DevOps engineer automating the building and deployment of the company's projects, with experience in GitLab CI-CD and Docker and Deb package.
+- Writing DevOps pipeline to build C++ GUI application for different operating system
+- Writing DevOps pipeline to build NodeJs & Python Django application
+
+# Open Source 
+
 - 🔭 I’m currently working on [Actioner](https://github.com/shreyasnayak/Actioner)
 
 - 🌱 I’m currently learning **Pub Sub**
