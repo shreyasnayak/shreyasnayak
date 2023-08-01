@@ -9,7 +9,7 @@
 - **Containerization / Packaging** : Deb packaging, pip packaging, Docker, QT installer framework, Inno setup
 - **DevOps tools** : Gitlab CLI, Git Runner 
 
-# My all C++ GUI Application
+# C++ GUI Application
 ### 1) _Chirp - Omni channel desktop application_
 [![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white)](https://www.qt.io/)  ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20ci-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 
@@ -27,7 +27,7 @@ Developed a cross-platform desktop application using the Qt framework and PjSIP 
 
 TxScreenCapture is a desktop monitoring tool that enables integration with PBX systems such as Avaya and FreeSWITCH. The tool allows administrator to record agents desktop screens and upload the recordings to the server.
 
-# My all Node.JS Application
+# Node.JS Application
 ### TxChat - Messaging Solutions
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white) ![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20ci-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 
