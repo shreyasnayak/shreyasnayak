@@ -7,7 +7,7 @@
 - **Run Time**              : Node.JS
 - **Framework**             : Express JS RestAPI, Python Django RestAPI, QT C++
 - **Containerization / Packaging** : Deb packaging, pip packaging, Docker, QT installer framework, Inno setup
-- **DevOps tools** : Gitlab CLI, Git Runner 
+- **DevOps tools** : Gitlab CLI, Git Runner, Docker, ContainerD
 
 # C++ GUI Application
 ### 1) _Chirp - Omni channel desktop application_
