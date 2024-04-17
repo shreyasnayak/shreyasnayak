@@ -62,9 +62,9 @@ Worked as a DevOps engineer automating the building and deployment of the compan
 
 # Open Source 
 
-- 🔭 I’m currently working on [Actioner](https://github.com/shreyasnayak/Actioner)
+- 🔭 I’m currently working on [NodeJS-FAAS](https://github.com/shreyasnayak/NodeJS-FAAS)
 
-- 🌱 I’m currently learning **Pub Sub**
+- 🌱 I’m currently learning **K3S**
 
 - 📝 I occasionally write articles on [https://substack.com/profile/120577528-shreyas-nayak](https://substack.com/profile/120577528-shreyas-nayak)
 
