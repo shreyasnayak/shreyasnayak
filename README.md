@@ -12,9 +12,9 @@ framework, Inno setup
 
 # Open Source 
 
-- 🔭 I’m currently working on [NodeJS-FAAS](https://github.com/shreyasnayak/NodeJS-FAAS)
+- 🔭 I’m currently working on Voice Based Conversion AI
 
-- 🌱 I’m currently learning **K3S**
+- 🌱 I’m currently exploring [Whisper AI](https://github.com/openai/whisper)
 
 - 💬 Ask me about **Anything about IT and Traveling**
 
