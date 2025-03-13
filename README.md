@@ -12,7 +12,7 @@ framework, Inno setup
 
 # Open Source 
 
-- 🔭 I’m currently working on Voice Based Conversion AI
+- 🔭 I’m currently working on [Voice Based Conversion AI](https://github.com/shreyasnayak/Conversational-AI)
 
 - 🌱 I’m currently exploring [Whisper AI](https://github.com/openai/whisper)
 
