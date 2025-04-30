@@ -24,4 +24,4 @@ Conversational AI has always held the promise of natural, human-like interaction
 
 Here are some MP3 recordings showcasing the current capabilities of the system:
 
-📂 [ Bank AI ](demo_demo_01.mp3)
+📂 [ Bank AI ](https://github.com/shreyasnayak/shreyasnayak/raw/refs/heads/master/conversational_ai/demo_demo_01.mp3)
