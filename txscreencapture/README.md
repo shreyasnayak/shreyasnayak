@@ -1,0 +1,4 @@
+#### 2) _TxScreenCapture - Desktop monitoring tool_
+[![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white)](https://www.qt.io/)  ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20ci-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+
+TxScreenCapture is a desktop monitoring tool designed to integrate seamlessly with PBX systems like Avaya and FreeSWITCH. It enables administrators to record agents' desktop screens and automatically upload the recordings to a central server for secure storage and review.
