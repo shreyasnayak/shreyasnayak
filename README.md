@@ -39,7 +39,7 @@ Designed and developed a voice-based AI system for handling business support cal
 Designed and developed a unified chat platform to manage customer queries from Facebook Messenger, WhatsApp, Telegram, and WebChat. Built an in-house chatbot with intent recognition and named entity recognition optimized for Indian entities. Deployed at scale, handling millions of chats daily. [Click Here to know more](chat/README.md)
 
 #### 4) _TxScreenCapture - Desktop monitoring tool_
-TxScreenCapture is a desktop monitoring tool designed to integrate seamlessly with PBX systems like Avaya and FreeSWITCH. It enables administrators to record agent's desktop screens and automatically upload the recordings to a central server for secure storage and review. [Click Here to know more](txscreencapture/README.md)
+TxScreenCapture is a desktop monitoring tool designed to integrate seamlessly with PBX systems like Avaya and FreeSWITCH. It enables administrators to record agent's desktop screens and automatically upload the recordings to a central server for secure storage and review. 
 
 #### 5) _DevOps_ 
 Worked as a DevOps Engineer, automating the build and deployment processes for a wide range of company projects. Experienced in GitLab, Github CI/CD, container technologies, and deploying both Debian packages and cross-platform desktop applications. [Click Here to know more](devops/README.md)
