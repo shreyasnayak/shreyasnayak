@@ -23,10 +23,6 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shreyasnayak&show_icons=true&locale=en&layout=compact" alt="shreyasnayak" /></p>
 
-### 🔭 I’m currently working on 
-- [DNS Manager - OpenSource](https://github.com/shreyasnayak/dns-manager)
-- [Voice Based Conversion AI - Private](conversational_ai/README.md)
-- [Whisper AI](https://github.com/openai/whisper)
 
 ## Projects 
 #### 1) _Chirp - Omni channel desktop application_
